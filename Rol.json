@@ -1,0 +1,5 @@
+{"_id":1,"name":"Admin","_class":"com.TELCEL.CRUD.Entity.Rol"}
+{"_id":2,"name":"Worker","_class":"com.TELCEL.CRUD.Entity.Rol"}
+{"_id":3,"name":"Supervisor","_class":"com.TELCEL.CRUD.Entity.Rol"}
+{"_id":4,"name":"Contador","_class":"com.TELCEL.CRUD.Entity.Rol"}
+{"_id":5,"name":"Actuario","_class":"com.TELCEL.CRUD.Entity.Rol"}

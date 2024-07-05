@@ -1,0 +1,6 @@
+{"_id":1,"firstName":"Gerardo","middleName":"Sanchez","lastName":"Gonzalez","roles":[{"$ref":"Rol","$id":2},{"$ref":"Rol","$id":3}],"_class":"com.TELCEL.CRUD.Entity.User"}
+{"_id":2,"firstName":"Erick","middleName":"Juarez","lastName":"Rosas","roles":[{"$ref":"Rol","$id":2}],"_class":"com.TELCEL.CRUD.Entity.User"}
+{"_id":3,"firstName":"Mariana","middleName":"Diego","lastName":"Nolasco","roles":[{"$ref":"Rol","$id":1}],"_class":"com.TELCEL.CRUD.Entity.User"}
+{"_id":4,"firstName":"Damian","middleName":"Hernandez","lastName":"Herrera","roles":[{"$ref":"Rol","$id":2}],"_class":"com.TELCEL.CRUD.Entity.User"}
+{"_id":5,"firstName":"Angelica","middleName":"Contreras","lastName":"Rodriguez","roles":[{"$ref":"Rol","$id":2},{"$ref":"Rol","$id":3}],"_class":"com.TELCEL.CRUD.Entity.User"}
+{"_id":6,"firstName":"Denis","middleName":"Medina","lastName":"Gomez","roles":[{"$ref":"Rol","$id":1},{"$ref":"Rol","$id":2},{"$ref":"Rol","$id":3},{"$ref":"Rol","$id":4}],"_class":"com.TELCEL.CRUD.Entity.User"}
