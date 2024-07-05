@@ -1,4 +1,4 @@
-#Pueba Telcel :tw-1f4f1: 
+#Pueba Telcel 
 
 <p>
 Dentro de la aplicación Telcel, este proyecto utiliza MongoDB para administrar usuarios y roles. Incluye entidades de usuario y roles, así como operaciones CRUD que se implementaron en Spring Boot para mejorar la gestión y la persistencia de datos. Los puntos de acceso RESTful se ofrecen para realizar tareas como crear, leer, actualizar y eliminar usuarios y roles, así como garantizar la integridad de los datos y la facilidad de acceso a MongoDB.
@@ -128,4 +128,5 @@ La estructura debera quedar mas o menos de la siguiente forma:
 |----------Rol (importación de archivo Rol.json)
 |----------Users (importación de archivo Users.json)
 </p>
+
 
